@@ -1,0 +1,42 @@
+/*p {
+    color: aqua;
+    font-weight: bold; 
+}
+em{
+    color: red;
+    font-weight: bold;
+}
+h1{
+    color: springgreen;
+}
+{
+    font-family: 'Nunito', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: line-through;
+}
+*/
+/*
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+    color: #bb3636;
+
+}
+.flottant{
+    float: left;
+}
+body{
+    background-image: url("https://images.unsplash.com/photo-1609106358042-6f806bf49880?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+*/
+h1{
+    border: 3px red double;
+    border-radius: 20px / 10px;
+    box-shadow: 3px 3px 8px black;
+    text-shadow: 3px 3px 8px black;
+}

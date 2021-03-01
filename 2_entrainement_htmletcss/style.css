@@ -1,0 +1,57 @@
+/* a:hover{
+    color: green;
+}
+p:hover{
+    border-left: 3px solid black;
+}
+a:focus{
+    background-color: #77ff88;
+}
+a:visited{
+    color: #888888;
+}*/
+h1{
+    font-size: 3em;
+    color: red;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url("charlie-hammond-DmJ6yd7th8g-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    border: 3px royalblue inset;
+    border-radius: 20px / 20px;
+    box-shadow: 3px 3px 3px blue;
+}
+p{
+    text-align: justify;
+}
+.center img{
+    display: block;
+    margin: 0 auto;
+}
+
+figcaption {
+    text-align: center;
+}
+figcaption a{
+    color: red;
+}
+figcaption a:hover{
+    color: seagreen;
+}
+figcaption a:active{
+    color: snow;
+}
+p a{
+    color: tan;
+}
+p a:hover{
+    color: tomato;
+}
+p a:active{
+    color: turquoise;
+}
